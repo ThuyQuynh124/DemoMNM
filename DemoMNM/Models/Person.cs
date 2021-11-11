@@ -7,7 +7,9 @@ namespace DemoNetCore.Models
     public class Person
     {
         [Key]
+        [Display(Name="ID")]
         public String PersonID { get; set; }
+        [Display(Name="Họ và tên")]
         public string PersonName { get; set; }
     }
 }

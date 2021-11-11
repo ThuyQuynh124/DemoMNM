@@ -15634,6 +15634,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Person\\Edit.cshtml",
       "TargetPath": "Views\\Person\\Edit.cshtml",
       "FileKind": "mvc"
@@ -15644,8 +15649,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Employee\\Index.cshtml",
       "TargetPath": "Views\\Employee\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15674,8 +15689,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Student\\Index.cshtml",
       "TargetPath": "Views\\Student\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Demonetcore\\DemoMNM\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     },
     {

@@ -185,3 +185,8 @@ C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Student\Delete.cshtml.g.cs
 C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Student\Details.cshtml.g.cs
 C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
 C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Movies\Create.cshtml.g.cs
+C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+C:\Demonetcore\DemoMNM\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using DemoNetCore.Models;
+using DemoMNM.Models;
 
     public class ApplicationDBContext : DbContext
     {
@@ -19,4 +20,6 @@ using DemoNetCore.Models;
         public DbSet<DemoNetCore.Models.Product> Product { get; set; }
 
         public DbSet<DemoNetCore.Models.Student> Student { get; set; }
+
+        public DbSet<DemoMNM.Models.Movie> Movie { get; set; }
     }
